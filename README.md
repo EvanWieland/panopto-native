@@ -13,4 +13,6 @@ With PanonptoNative, you get these ***amazing*** features:
 
 To use, just download the code and load the extension in Chrome. Make sure you have developer mode checked! Check out this [article](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/) if you're nopt sure how to do this.
 
+To launch PanonptoNative, just click on the embedded Panopto player's big play button.
+
 If you have any issues raise an issue. If you have improvements, send a PR.
